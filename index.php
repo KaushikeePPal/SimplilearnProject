@@ -3,5 +3,7 @@
 <body>  
 <h1>Welcome to Simplilern Project</h1>
 <?php echo ".. My first php modelue.."?>
+<?php echo ".. 2nd version.."?>
+<?php echo ".. 3rd version.."?>
 </body>    
 </html>
