@@ -6,5 +6,9 @@
 <?php echo ".. 2nd version.."?>
 <?php echo ".. 3rd version.."?>
 <?php echo "..DataBase version.."?>
+<form method="POST" action="namesearch.php">
+    <input type="submit"/>
+  </form>
+
 </body>    
 </html>
