@@ -19,8 +19,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 $servername = "localhost";
-$username = "test";
-$password = "test";
+$username = "kaushikee";
+$password = "test123";
 $dbname = "simplilearnproject";
 
 
