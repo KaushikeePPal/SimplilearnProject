@@ -6,9 +6,10 @@
 <?php echo ".. 2nd version.."?>
 <?php echo ".. 3rd version.."?>
 <?php echo "..DataBase version.."?>
-<form method="POST" action="http://localhost:5000/SimplilearnProject/namesearch.php">
-    <input type="submit"/>
-  </form>
+<h1>Please hit enter</h1>
+<a href="http://localhost:5000/SimplilearnProject/namesearch.php">
+     <input type="submit"/>
+   </a>
 
 </body>    
 </html>
